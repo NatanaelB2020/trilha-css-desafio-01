@@ -1,22 +1,46 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Trilha de CSS - Desafio de Treinamento
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Este é um projeto desenvolvido como parte de um desafio de treinamento para a Trilha de CSS da DIO (Digital Innovation One). O projeto tem como objetivo aplicar conceitos e técnicas de CSS para criar um layout atraente e responsivo. Abaixo estão os detalhes do projeto:
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## Estrutura do Projeto
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+O projeto consiste em uma página HTML com seções distintas, cada uma abordando aspectos específicos do treinamento.
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+### Arquivos Principais:
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+- **index.html:** Contém a estrutura HTML da página, incluindo os elementos da header, main e footer.
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+- **styles.css:** Arquivo de estilo CSS que define a aparência visual da página.
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+### Diretório de Imagens:
+
+- **assets/images/:** Contém as imagens utilizadas no projeto, como logotipos e ilustrações.
+
+## Header (Banner)
+
+A seção de cabeçalho (banner) apresenta informações sobre a Trilha de CSS da DIO. Inclui o logotipo, título, uma breve descrição e um botão para inscrição.
+
+## Módulos do Curso
+
+A seção "O QUE VOU APRENDER?" destaca os três módulos do curso, fornecendo uma visão geral do conteúdo abordado em cada um.
+
+## Transformando o Mundo
+
+A seção "transforme o mundo com a gente" destaca o impacto positivo que os participantes podem ter ao adquirir habilidades em CSS.
+
+## Desafios Profissionais
+
+A seção "EVOLUA E ENCARRE NOVOS DESAFIOS PROFISSIONAIS" apresenta informações sobre como o curso prepara os participantes para oportunidades profissionais, incluindo uma imagem ilustrativa e depoimentos.
+
+## Rodapé (Footer)
+
+O rodapé inclui o logotipo da DIO e um link para o site oficial, incentivando os usuários a se cadastrarem.
+
+## Como Executar o Projeto
+
+1. Faça o download ou clone o repositório para o seu ambiente local.
+2. Abra o arquivo `index.html` em um navegador web.
+
+## Conclusão
+
+Este projeto é parte integrante do treinamento da Trilha de CSS da DIO, proporcionando uma experiência prática na aplicação de conceitos CSS para criar layouts web atraentes. Explore e experimente ajustes no código para aprimorar suas habilidades em CSS.
